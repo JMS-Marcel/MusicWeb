@@ -9,15 +9,15 @@ const songs = [
   },
   {
     id:'2',
-    songName:`Legends never Die <br>
-    <div class="subtitle">Against The Current</div>`,
+    songName:`Tsy ho lasa ny rivotra <br>
+    <div class="subtitle">Geascar</div>`,
     poster:"img/2.jpg"
   },
   {
     id:'3',
-    songName:`Fade <br>
-    <div class="subtitle">Alan Walker</div>`,
-    poster:"img/3.jpg"
+    songName:`Legends never Die <br>
+    <div class="subtitle">Against The Current</div>`,
+    poster:"img/3.png"
   },
   {
     id:'4',
@@ -29,67 +29,67 @@ const songs = [
     id:'5',
     songName:`CryJaxx - Candy shop <br>
     <div class="subtitle">feat Junior Charles</div>`,
-    poster:"img/5.jpg"
+    poster:"img/5.png"
   },
   {
     id:'6',
     songName:`Hafa mintsy <br>
     <div class="subtitle">REKO</div>`,
-    poster:"img/3.jpg"
+    poster:"img/6.jpg"
   },
   {
     id:'7',
     songName:`Mamomamo kely <br>
     <div class="subtitle">Tanjona</div>`,
-    poster:"img/2.jpg"
+    poster:"img/7.png"
   },
   {
     id:'8',
     songName:`Taram-pahazavana <br>
     <div class="subtitle">Teboka</div>`,
-    poster:"img/1.jpg"
+    poster:"img/8.png"
   },
   {
     id:'9',
-    songName:`Rootsman <br>
-    <div class="subtitle">Tsy ameko</div>`,
-    poster:"img/3.jpg"
+    songName:`Tsy ameko <br>
+    <div class="subtitle">Rootsman</div>`,
+    poster:"img/9.jpg"
   },
   {
     id:'10',
     songName:`Go Down Deh<br>
     <div class="subtitle">Spice, Sean Paul, Shaggy</div>`,
-    poster:"img/5.jpg"
+    poster:"img/10.jpg"
   },
   {
     id:'11',
     songName:`Ao fa Kely sisa <br>
     <div class="subtitle">Rak Roots</div>`,
-    poster:"img/4.jpg"
+    poster:"img/11.jpg"
   },
   {
     id:'12',
     songName:`Love Yourself <br>
     <div class="subtitle">Justin Bieber</div>`,
-    poster:"img/3.jpg"
+    poster:"img/12.jpg"
   },
   {
     id:'13',
     songName:`Mamolava <br>
     <div class="subtitle">Nathan Gabri</div>`,
-    poster:"img/1.jpg"
+    poster:"img/13.jpg"
   },
   {
     id:'14',
     songName:`Eternity <br>
-    <div class="subtitle">Eminem</div>`,
-    poster:"img/4.jpg"
+    <div class="subtitle">Dax feat Eminem</div>`,
+    poster:"img/14.jpg"
   },
   {
     id:'15',
-    songName:`Tsy ho lasa ny rivotra <br>
-    <div class="subtitle">Geoscar</div>`,
-    poster:"img/5.jpg"
+    songName:`Faded <br>
+    <div class="subtitle">Alan Walker</div>`,
+    poster:"img/15.jpg"
   },
 ]
 
