@@ -244,6 +244,7 @@ header .master_play .bar .bar2{
   width: 0;
   height: 100%;
   top: 0;
+  transition: 1s linear;
 }
 header .master_play .bar .dot{
   position: absolute;
@@ -267,7 +268,7 @@ header .master_play .bar .dot::before{
   box-shadow: inset 0px 0px 3px #36e2ec;
 }
 header .master_play .bar input{
-  padding: absolute;
+  position: absolute;
   width: 100%;
   top: -6px;
   left: 0;
@@ -299,12 +300,13 @@ header .master_play .vol input{
   transition: 3s linear;
   opacity: 0;
 }
-header .master_play .vol .vol .bar{
+header .master_play .vol .vol_bar{
   position: absolute;
   background: #36e2ec;
   width: 0;
   height: 100%;
   top: 0;
+  transition:1s linear;
 }
 header .master_play .vol .dot{
   position: absolute;
